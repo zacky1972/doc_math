@@ -1,6 +1,6 @@
 # DocMath
 
-Sample of `ex_doc` and `KaTeX` for describing a documentation using math, taught by José Valim.
+Sample of `ex_doc` and `KaTeX` for describing documentation using math, taught by José Valim.
 
 ## Installation
 
