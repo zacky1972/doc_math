@@ -3,8 +3,10 @@ defmodule DocMath do
   Documentation for `DocMath`.
   """
 
-  @doc """
+  @doc ~S"""
   Hello world.
+
+  $$sin x = x - \dfrac{1}{3!}x^3 + \dfrac{1}{5!}x^5 - \dfrac{1}{7!}x^7 + \cdots $$
 
   ## Examples
 
