@@ -1,6 +1,6 @@
 # DocMath
 
-**TODO: Add description**
+Sample of `ex_doc` and `KaTeX` for describing a documentation using math, taught by José Valim.
 
 ## Installation
 
